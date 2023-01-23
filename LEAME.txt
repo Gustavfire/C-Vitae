@@ -1,0 +1,8 @@
+En esta pagina haciendo click en siguiente CV genera un curriculum vitae aleatorio 
+consumiendo la API sugerida en el curso.
+A la misma la desarrolle basandome en lo aprendido en cada contenido proporcionado. 
+Siguiendo los consejos del profesor busque tutoriales de Bootstrap para hacerla resposnsiva y
+agregue iconos y fuentes externas.
+
+Muchas gracias por permitirme participar!
+
